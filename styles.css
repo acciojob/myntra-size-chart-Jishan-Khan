@@ -1,2 +1,27 @@
+table{
+	width:600px;
+	border: 1px solid;
+}
 
-/* Your CSS Code here. */
+thead{
+	background-color: maroon;
+	color:white;
+	text-align: left;
+}
+
+#tr1{
+	background-color: rgb(255, 100, 100);
+	color:white;
+}
+
+#tr2{
+	background-color: pink;
+}
+
+#tr3{
+	background-color: silver;
+}
+
+.data{
+	text-align:right;
+}
